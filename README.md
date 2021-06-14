@@ -12,9 +12,9 @@ In this guided project, we'll work with a dataset of used cars from eBay Kleinan
 The dataset was originally scraped and uploaded to Kaggle by user *orgesleka*.
 DataQeust has made the following modification on the original data:
 
-sampled 50,000 data points from the full dataset, to ensure code runs quicker
-dirtied the dataset a bit to more closely resemble what one would expect from a scraped dataset (the version uploaded to Kaggle was cleaned to be easier to work with)
-The data dictionary provided with data is as follows:
+* sampled 50,000 data points from the full dataset, to ensure code runs quicker
+* dirtied the dataset a bit to more closely resemble what one would expect from a scraped dataset (the version uploaded to Kaggle was cleaned to be easier to work with)
+
 
 
 
